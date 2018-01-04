@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F97A6E91FFE9E4C00DAD35B /* CardA.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F97A6E71FFE9E4C00DAD35B /* CardA.xib */; };
 		6FF21DB01FF5108F00CC3DD0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF21DAF1FF5108F00CC3DD0 /* AppDelegate.swift */; };
 		6FF21DB21FF5108F00CC3DD0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF21DB11FF5108F00CC3DD0 /* ViewController.swift */; };
 		6FF21DB51FF5108F00CC3DD0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FF21DB31FF5108F00CC3DD0 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6F97A6E71FFE9E4C00DAD35B /* CardA.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CardA.xib; sourceTree = "<group>"; };
+		6F97A6EC1FFEA88F00DAD35B /* CardViewGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = CardViewGif.gif; sourceTree = "<group>"; };
 		6FF21DAC1FF5108F00CC3DD0 /* CardView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FF21DAF1FF5108F00CC3DD0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6FF21DB11FF5108F00CC3DD0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,10 +105,12 @@
 				6FF21DAF1FF5108F00CC3DD0 /* AppDelegate.swift */,
 				6FF21DB11FF5108F00CC3DD0 /* ViewController.swift */,
 				6FF21DB31FF5108F00CC3DD0 /* Main.storyboard */,
+				6F97A6E71FFE9E4C00DAD35B /* CardA.xib */,
+				6FF21DDD1FF52B7100CC3DD0 /* CTableViewCell.swift */,
 				6FF21DB61FF5108F00CC3DD0 /* Assets.xcassets */,
 				6FF21DB81FF5108F00CC3DD0 /* LaunchScreen.storyboard */,
 				6FF21DBB1FF5108F00CC3DD0 /* Info.plist */,
-				6FF21DDD1FF52B7100CC3DD0 /* CTableViewCell.swift */,
+				6F97A6EC1FFEA88F00DAD35B /* CardViewGif.gif */,
 			);
 			path = CardView;
 			sourceTree = "<group>";
@@ -235,6 +240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F97A6E91FFE9E4C00DAD35B /* CardA.xib in Resources */,
 				6FF21DBA1FF5108F00CC3DD0 /* LaunchScreen.storyboard in Resources */,
 				6FF21DB71FF5108F00CC3DD0 /* Assets.xcassets in Resources */,
 				6FF21DB51FF5108F00CC3DD0 /* Main.storyboard in Resources */,
